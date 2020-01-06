@@ -1,9 +1,7 @@
 ---
-title: Welcome to my website
+title: Non-Binary Leeds
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
+feature_image: "/assets/headers/zine.jpg"
 ---
 
-There isn't much going on here yet, but watch this space
+Non-Binary Leeds is a peer-led support and social group for non-binary people in Leeds and the surrounding areas. We provide practical and emotional support in a safer, friendly environment.

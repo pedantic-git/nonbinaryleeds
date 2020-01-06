@@ -1,0 +1,16 @@
+.footer {
+  background: $footerColour;
+  color: $linkColour;
+  a {
+    color: currentColor;
+    &:hover {
+      color: $hoverColour;
+    }
+  }
+  .container {
+    padding: 0.5rem 0;
+    div {
+      margin: 0.5rem;
+    }
+  }
+}
