@@ -14,3 +14,28 @@
     }
   }
 }
+
+.typeset ul {
+  li {
+    margin-left: 2rem;
+  }
+}
+
+ul.supporters {
+  font-size: 0.9em;
+  padding: 0;
+  li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 0;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    border: 1px solid mix($linkColour, white, 25%);
+    a {
+      background-image: none;
+    }
+    &:not(:last-child) {
+      margin-right: 0.5em;
+    }
+  }
+}
