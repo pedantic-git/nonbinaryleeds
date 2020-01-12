@@ -37,11 +37,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Support
-  url: /support
+  url: /support/
 - title: Social
-  url: /social
+  url: /social/
 - title: Training & Resources
-  url: /resources
+  url: /resources/
 
 # Collections
 collections:
