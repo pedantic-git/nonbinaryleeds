@@ -9,7 +9,7 @@ feature_caption: Still from a video we helped make for the Labour Party on Trans
 
 As well as being a support organisation and social group we have also delivered training and consultation to organisations such as the maternity and radiology service in Leeds as well as for various GPs practices, workplaces and networks.
 
-## Resources
+## Resources and Handouts
 
 Non-Binary Leeds has produced some smaller resources and hand-outs to help explaing things such as a brief overview of what non-binary is and what a pronouns circle is.
 When we create more resources for non-binary people and our allies we will endevour to store them here! 
