@@ -5,11 +5,11 @@ feature_image: "/assets/headers/labour-video.jpg"
 feature_caption: Still from a video we helped make for the Labour Party on Trans Day of Remembrance
 ---
 
-## Consultation, Training and Advocacy
+## Consultation, training and advocacy
 
 As well as being a support organisation and social group we have also delivered training and consultation to organisations such as the maternity and radiology service in Leeds as well as for various GPs practices, workplaces and networks.
 
-## Resources and Handouts
+## Resources and handouts
 
 Non-Binary Leeds has produced some smaller resources and hand-outs to help explaing things such as a brief overview of what non-binary is and what a pronouns circle is.
 When we create more resources for non-binary people and our allies we will endevour to store them here! 
@@ -17,7 +17,7 @@ When we create more resources for non-binary people and our allies we will endev
 * [I am non-binary](/assets/pdf/i-am-non-binary.pdf) (PDF)
 * [How to do a pronoun circle](/assets/pdf/pronoun-circles.pdf) (PDF)
 
-## Non-Binary History Zines
+## Non-Binary history zines
 
 In 2019 Non-Binary Leeds worked with the community to produce 2 history zines about non-binary people. One looking at more historical figures and another looking at what our current culture, feelings and experiences are in order to preserve them to look back on.
 
