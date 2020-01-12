@@ -16,9 +16,12 @@
 }
 
 .typeset ul {
-  li {
-    margin-left: 2rem;
-  }
+  padding-left: 2rem;
+  overflow: hidden;
+}
+
+.typeset hr {
+  clear: both;
 }
 
 ul.supporters {
@@ -37,5 +40,29 @@ ul.supporters {
     &:not(:last-child) {
       margin-right: 0.5em;
     }
+  }
+}
+
+.figure--right, .figure--left {
+  display: block;
+  width: 200px;
+  margin: 0 auto 1em auto;
+  float: none;
+}
+
+@include breakpoint(break-1) {
+  .figure--right, .figure--left {
+    width: 300px;
+    img {
+      max-height: 100%;
+    }
+  }
+  .figure--right {
+    float: right;
+    margin-left: 2em;
+  }
+  .figure--left {
+    float: left;
+    margin-right: 2em;
   }
 }
