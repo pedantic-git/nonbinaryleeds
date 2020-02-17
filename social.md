@@ -1,14 +1,16 @@
 ---
 title: Social
 layout: page
-feature_image: "/assets/headers/wharf-chambers-winter-solstice-do.jpg"
-feature_caption: Wharf Chambers supporting our Winter Solstice Do in 2019
+feature_image: "/assets/headers/wrek-the-halls.jpg"
+feature_caption: "Donna the Domme &amp; Fred from Finance at the Wrek The Halls Fundraiser (photo: Robyn Dewhurst)"
 ---
 We run various social events that are open to anyone who feels the space is for them.
 
 ## Coffee evening
 
 A staple of our programme quickly became a monthly coffee evening at Flamingos Coffee House. Our coffee evening has a warm and friendly atmosphere for both regulars and newcomers alike. Sometimes just being in a room with other non-binary people is just what we need to help us through, espcially in a sober space when much of the LGBT+ community can be very alcohol focused.
+
+If you'd like to come to the coffee evening, get in touch with us using the details below and we'll let you know when it is.
 
 ## Queer Karaoke
 
