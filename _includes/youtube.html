@@ -1,0 +1,6 @@
+<figure class="youtube">
+  <div class="youtube__container">
+    <iframe src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+  {% if include.caption %}<figcaption class="youtube__caption">{{ include.caption }}</figcaption>{% endif %}
+</figure>
