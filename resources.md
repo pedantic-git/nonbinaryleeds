@@ -18,6 +18,7 @@ When we create more resources for non-binary people and our allies we will endev
 
 * [I am non-binary](/assets/pdf/i-am-non-binary.pdf) (PDF)
 * [How to do a pronoun circle](/assets/pdf/pronoun-circles.pdf) (PDF)
+* [Maya Forstater Case resource](/assets/pdf/forstater-case-resource.pdf) (PDF)
 
 ## Non-Binary history zines
 
@@ -32,4 +33,5 @@ As part of LGBT+ History Month, Non-Binary Leeds are doing a 2020 UK tour delive
 
 ## Press
 
-* [Yorkshie Post article on Non-Binary Leeds](https://www.yorkshirepost.co.uk/news/crime/meet-the-yorkshire-non-binary-gender-community-fighting-back-against-a-rising-tide-of-stigma-and-hate-1-9912686)
+* [Yorkshire Post article on Non-Binary Leeds](https://www.yorkshirepost.co.uk/news/crime/meet-the-yorkshire-non-binary-gender-community-fighting-back-against-a-rising-tide-of-stigma-and-hate-1-9912686)
+* [Refinery29 - Will ‘Swishing’ Be 2020’s Biggest Fashion Sustainability Trend?](https://www.refinery29.com/en-gb/swishing-clothes-swapping) - news story featuring quotes from Non-Binary Leeds

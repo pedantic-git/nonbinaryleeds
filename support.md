@@ -33,3 +33,4 @@ At Non-Binary Leeds we are also concerned with community sustainablility as well
 
 * [Community Compact](/assets/pdf/community-compact-2019-09.pdf) (PDF)
 * [Grievance procedure](/assets/pdf/grievance-procedure-2019-09.pdf) (PDF)
+* [Shared online spaces agreement](/assets/pdf/shared-online-spaces-agreement-2020-05.pdf) (PDF)
