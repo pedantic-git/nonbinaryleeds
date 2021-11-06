@@ -9,7 +9,7 @@ Non-Binary Leeds offers support to the non-binary community in Leeds in various 
 
 ## Support group
 
-Our monthly support sessions are a mix of free chats, conversations around specific topics.
+Our monthly support sessions are a mix of free chats, conversations around specific topics. Since COVID, we have been meeting online via Discord.
 
 We all remember wondering if we were 'non-binary enough' or 'trans enough' and those feelings are totally normal! Non-Binary Leeds is here for anyone who feels they are or might be non-binary. We are a mixture of ages and backgrounds, and we're not here to gatekeep - if you feel you are or might be non-binary then the space is yours.
 
