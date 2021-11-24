@@ -21,12 +21,12 @@ Non-Binary Leeds is a peer-led support and social group for non-binary people in
 
 ----
 
-{% responsive_image path: assets/images/organisers.jpg alt: "The four Non-Binary Leeds organisers" position: left %}
+{% responsive_image path: assets/images/NBLart01.jpg alt: "The four Non-Binary Leeds organisers" position: left %}
 
 ## [Social](/social)
 
 * Monthly coffee evening
-* Queer karaoke
+* Trans picnics
 * International Non-Binary Day
 
 {% include button.html text="&raquo; Read more about social activities" link="/social" %}
